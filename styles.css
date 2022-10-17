@@ -233,6 +233,17 @@
         transform: rotate(630deg);
     }
   }
+
+  html{
+    background: #29B1BE;
+  }
+  
+  .cont{
+    position: absolute;left: 50%;
+    top: 50%;
+    margin: -100px 0 0 -100px;
+  }
+  
   
   
   
