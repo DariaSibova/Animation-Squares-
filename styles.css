@@ -259,7 +259,25 @@
   -webkit-animation-timing-function: ease-in-out;
   animation-timing-function: ease-in-out;
   }
-  
+  .square2 {
+    margin-left: 20px;
+    margin-top: 20px;
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    border: 10px solid #FACD38;
+    -webkit-animation: spin2 3s infinite;
+            animation: spin2 3s infinite;
+    -webkit-animation-delay: 0.4s;
+ /* Chrome, Safari, Opera */
+    animation-delay: 0.4s;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+}
+
   
   
   
