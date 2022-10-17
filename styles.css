@@ -278,6 +278,77 @@
     animation-timing-function: ease-in-out;
 }
 
+.square3 {
+    margin-left: 40px;
+    margin-top: 40px;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    border: 10px solid #FACD38;
+    -webkit-animation: spin 3s infinite;
+            animation: spin 3s infinite;
+    -webkit-animation-delay: 0.3s;
+ /* Chrome, Safari, Opera */
+    animation-delay: 0.3s;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+}
+
+.square4 {
+    margin-left: 60px;
+    margin-top: 60px;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    border: 10px solid #FACD38;
+    -webkit-animation: spin4 3s infinite;
+            animation: spin4 3s infinite;
+    -webkit-animation-delay: 0.2s;
+ /* Chrome, Safari, Opera */
+    animation-delay: 0.2s;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+}
+
+.square5 {
+    margin-left: 80px;
+    margin-top: 80px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    border: 10px solid #FACD38;
+    -webkit-animation: spin5 3s infinite;
+            animation: spin5 3s infinite;
+    -webkit-animation-delay: 0.1s;
+ /* Chrome, Safari, Opera */
+    animation-delay: 0.1s;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+}
+
+.square6 {
+    margin-left: 100px;
+    margin-top: 100px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: #FACD38;
+    -webkit-animation: spin6 3s infinite;
+            animation: spin6 3s infinite;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+}
+
+
   
   
   
