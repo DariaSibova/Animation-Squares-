@@ -243,6 +243,22 @@
     top: 50%;
     margin: -100px 0 0 -100px;
   }
+  .square1{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+  border: 10px solid #FaCD38;
+  -webkit-animation: spin3 3s infinite;
+  animation: spin3 3s infinite;
+  -webkit-animation-delay: 0.5s;
+  /*Chrome, Safari,Opera*/
+  animation-delay: 0.5s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  }
   
   
   
